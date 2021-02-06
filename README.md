@@ -34,10 +34,10 @@ The training and testing datasets are added [here](https://drive.google.com/driv
 
 ## Team Members
 
-Keerti Chaudhary (@keerti2001) <br />
-Ameya Deshpande (@ameyanrd) <br />
-Aditya Sohoni (@adityasohoni) <br />
-Shumbul Arifa (@shumbul)
+Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
+Ameya Deshpande ([@ameyanrd](https://github.com/ameyanrd)) <br />
+Aditya Sohoni ([@adityasohoni](https://github.com/keerti2001)) <br />
+Shumbul Arifa ([@shumbul](https://github.com/shumbul))
 
 ## Presentation Slides
 
