@@ -42,3 +42,7 @@ Shumbul Arifa ([@shumbul](https://github.com/shumbul))
 ## Presentation Slides
 
 The project presentation slides are [here](https://docs.google.com/presentation/d/1i9SlO2Ic-1wflwU0YZ39pbVTKw2APppR7W4Vxhjuqew/edit?usp=sharing).
+
+## Sentify Demo Video
+ Video link [here](https://drive.google.com/file/d/18ntSTxPYw63KV42UEi0WnLV-VhF6GaRQ/view?usp=sharing).
+
