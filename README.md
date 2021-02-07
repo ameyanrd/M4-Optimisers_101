@@ -12,7 +12,7 @@ Sentiment analysis from text feedback is used by an ever increasing number of pe
 
 Sentiment analysis is an area of Natural Language Processing (NLP) that focuses on understanding human emotion in text.
 
-Knowing if a review/comment is positive or negative goes a long way when looking for feedback to improve a service/application. Our model is currently capable of taking a sentence and classifying its intent as either positive or negative.
+Knowing whether a review or a comment is positive or negative goes a long way when looking for some feedback to improve services and applications. Our model is currently capable of taking a sentence and classifying its intent as either positive or negative.
 
 The steps are listed below for explaining the working:
 
