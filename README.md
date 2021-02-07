@@ -46,3 +46,7 @@ The project presentation slides are [here](https://docs.google.com/presentation/
 ## Sentify Demo Video
  Video link [here](https://drive.google.com/file/d/18ntSTxPYw63KV42UEi0WnLV-VhF6GaRQ/view?usp=sharing).
 
+## Final Code Walkthrough
+
+ Video link [here](https://www.youtube.com/watch?v=OLY-QIlQk78&feature=youtu.be)
+
