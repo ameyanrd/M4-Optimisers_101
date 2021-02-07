@@ -1,6 +1,6 @@
 # M4 | Optimisers_101
 
-This project is a part of ApScript Hackathon.
+This project is a part of ApScript Hackathon by [IEEE Apsit](https://ieee.eventsapsit.org/)
 
 ## Problem statement
 
